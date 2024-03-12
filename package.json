@@ -1,0 +1,19 @@
+{
+  "name": "nft-affinity-curator",
+  "version": "1.0.1",
+  "description": "Curates and recommends NFTs by leveraging market insights and user preferences.",
+  "main": "main.js",
+  "dependencies": {
+    "eth-insights-collector": "^1.0.0",
+    "sentiment-analysis": "^1.0.0",
+    "personalized-recommendation-engine": "^1.0.0",
+    "axios": "^0.21.1",
+    "express": "^4.17.1"
+  },
+  "author": "makaka9691",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makaka9691/nft-affinity-curator"
+  }
+}
